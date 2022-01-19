@@ -1,1 +1,1 @@
-# check-certificate
+A simple python script to check and notify you of pending certificate expiries.  This is useful if you run your own internal CA and want to reissue certificates before they expire. It can also be useful if you're hosting many sites and aren't getting notifications from 3rd party CAs (which you should anyways).
